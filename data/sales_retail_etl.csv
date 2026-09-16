@@ -1,0 +1,103 @@
+﻿Date,Pays,SKU,Marque,Produit,Categorie,Unites,CA_EUR,Ads_EUR
+2026-02-01,Espagne,SKU-NIK-2535,Nike,Air Max 270,Chaussures,8,696,59.44
+2026-03-19,Belgique,SKU-ADI-5557,Adidas,Superstar,Chaussures,1,85,13.29
+2026-02-13,Italie,SKU-NIK-6881,Nike,Air Force 1,Chaussures,9,801,115.81
+2026-02-28,France,SKU-PUM-6925,Puma,Future Rider,Chaussures,18,1080,238.68
+2026-01-06,France,SKU-APP-8428,Apple,iPhone 16 Pro,Électronique,8,3088,446.59
+2026-02-15,Espagne,SKU-PUM-5010,Puma,RS-X,Chaussures,7,413,70.54
+2026-02-04,Italie,SKU-ADI-1525,Adidas,Samba,Chaussures,18,2646,314.71
+2026-01-09,Espagne,SKU-PUM-8517,Puma,Clyde,,7,539,79.37
+2026-02-01,Allemagne,SKU-ADI-3266,Adidas,Gazelle,Chaussures,18,1674,236.94
+2026-01-07,France,SKU-APP-7304,Apple,iPad Air,Électronique,4,4176,757.48
+2026-02-02,Belgique,SKU-SAM-6573,Samsung,Galaxy Tab S10,Électronique,18,17064,3543.33
+2026-01-21,Italie,SKU-NIK-2743,Nike,Dunk Low,Chaussures,15,1050,174.62
+2026-02-17,Allemagne,SKU-PUM-2832,Puma,RS-X,Chaussures,6,300,48.92
+2026-01-08,Allemagne,SKU-PUM-9727,Puma,Future Rider,Chaussures,8,480,104.99
+2026-03-12,Italie,SKU-ADI-4295,Adidas,Superstar,Chaussures,6,762,181.29
+2026-02-26,Espagne,SKU-PUM-4770,Puma,Clyde,Chaussures,17,1377,189.3
+2026-01-10,France,SKU-APP-4899,Apple,iPhone 16 Pro,Électronique,2,1712,157.58
+2026-03-11,Allemagne,SKU-PUM-4119,Puma,Clyde,Chaussures,5,550,119.5
+2026-02-15,Italie,SKU-NIK-6559,Nike,Air Max 270,Chaussures,14,1708,154.24
+2026-01-25,Allemagne,SKU-NIK-2235,Nike,Air Force 1,Chaussures,18,2286,362.67
+2026-03-25,France,SKU-SAM-4502,Samsung,Galaxy S25,Électronique,18,7560,1228.95
+2026-02-18,Allemagne,SKU-SAM-8973,Samsung,Galaxy S25,Électronique,1,542,107.54
+2026-01-28,Espagne,SKU-ADI-8811,Adidas,Superstar,Chaussures,2,258,23.15
+2026-03-07,,SKU-APP-5033,Apple,iPhone 16 Pro,Électronique,3,1983,294.76
+2026-01-11,Belgique,SKU-APP-4346,Apple,iPhone 16,Électronique,14,11578,2765.98
+2026-02-20,Espagne,SKU-PUM-2188,Puma,RS-X,Chaussures,5,440,104.69
+2026-03-14,Belgique,SKU-NIK-6718,Nike,Pegasus 41,Chaussures,4,316,32.4
+2026-02-06,Espagne,SKU-NIK-5905,Nike,Air Force 1,Chaussures,6,756,61.49
+2026-01-15,Espagne,SKU-NIK-4335,Nike,Air Force 1,Chaussures,4,560,113.12
+2026-01-07,Espagne,SKU-PUM-3143,Puma,Clyde,Chaussures,3,255,34.86
+2026-03-12,Italie,SKU-PUM-7049,Puma,RS-X,Chaussures,14,896,154.78
+2026-01-17,Italie,SKU-APP-5088,Apple,iPhone 16 Pro,Électronique,2,1824,211.06
+2026-02-22,Belgique,SKU-NIK-1406,Nike,Dunk Low,Chaussures,20,1780,409.12
+2026-03-27,Italie,SKU-ADI-4644,Adidas,Gazelle,Chaussures,8,640,144.61
+2026-02-09,Espagne,SKU-ADI-2137,Adidas,Samba,Chaussures,8,504,64.19
+2026-02-21,Belgique,SKU-PUM-5349,Puma,Future Rider,Chaussures,18,1152,127.13
+2026-02-25,Belgique,SKU-NIK-4114,Nike,Air Max 270,Chaussures,12,1320,192.04
+2026-01-01,Italie,SKU-PUM-6409,Puma,Suede Classic,Chaussures,17,1275,117.17
+2026-02-08,France,SKU-APP-3085,Apple,AirPods Pro,Électronique,17,17068,3388.43
+2026-03-28,Italie,SKU-ADI-4443,Adidas,Samba,Chaussures,6,792,104.27
+2026-02-26,Italie,SKU-SAM-5649,Samsung,Galaxy A56,Électronique,15,11010,2113.97
+2026-01-31,France,SKU-APP-8784,Apple,AirPods Pro,Électronique,10,2740,333.25
+2026-02-23,Italie,SKU-APP-1090,Apple,iPhone 16,Électronique,19,18962,2303.45
+2026-01-23,Allemagne,SKU-NIK-8612,Nike,Pegasus 41,Chaussures,17,2193,345.61
+2026-03-20,Italie,SKU-APP-8777,Apple,AirPods Pro,Électronique,17,8585,1772.13
+2026-03-23,Allemagne,SKU-SAM-5681,Samsung,Galaxy A56,Électronique,9,4446,688.14
+2026-02-10,Espagne,SKU-ADI-4505,Adidas,Gazelle,Chaussures,18,1386,274.39
+2026-02-12,Italie,SKU-NIK-1320,Nike,Pegasus 41,Chaussures,18,2322,339.5
+2026-01-01,Italie,SKU-APP-4613,Apple,iPad Air,Électronique,12,15576,3364.07
+2026-02-25,Espagne,SKU-SAM-8657,Samsung,Galaxy S25 Ultra,Électronique,16,14944,3035.29
+2026-03-17,Italie,SKU-ADI-8564,Adidas,Ultraboost,Chaussures,19,1197,123.37
+2026-02-18,Espagne,SKU-ADI-7906,Adidas,Ultraboost,Chaussures,11,1298,165.24
+2026-01-03,Italie,SKU-PUM-1659,Puma,Suede Classic,Chaussures,18,1404,298.78
+2026-01-03,Allemagne,SKU-NIK-4571,Nike,Air Force 1,Chaussures,20,1780,313.06
+2026-01-22,Espagne,SKU-SAM-6111,Samsung,Galaxy A56,Électronique,20,11360,2026.36
+2026-01-26,Italie,SKU-APP-5941,Apple,iPad Air,Électronique,3,1164,231.08
+2026-01-06,Belgique,SKU-APP-1207,Apple,iPhone 16,Électronique,12,14592,2773.68
+2026-02-25,France,SKU-SAM-5425,Samsung,Galaxy Tab S10,Électronique,12,8340,1707.57
+2026-02-25,Italie,SKU-APP-8385,Apple,iPad Air,Électronique,19,6783,864.27
+2026-03-20,Belgique,SKU-ADI-4475,Adidas,Samba,Chaussures,13,819,90.84
+2026-02-05,Espagne,SKU-PUM-2402,Puma,Future Rider,Chaussures,20,2420,583.63
+2026-03-13,Italie,SKU-ADI-4630,Adidas,Samba,Chaussures,8,960,91.99
+2026-03-26,Espagne,SKU-SAM-6419,Samsung,Galaxy S25 Ultra,Électronique,19,15067,2295.24
+2026-02-09,Espagne,SKU-PUM-4033,Puma,Clyde,Chaussures,9,666,137.39
+2026-02-05,Italie,SKU-ADI-6912,Adidas,Superstar,Chaussures,19,2584,336.86
+2026-03-10,France,SKU-ADI-3068,Adidas,Gazelle,Chaussures,5,325,64.53
+2026-03-15,France,SKU-SAM-5136,Samsung,Galaxy S25,Électronique,10,5980,1459.92
+2026-02-21,France,SKU-SAM-5978,Samsung,Galaxy S25,Électronique,16,15232,1611.45
+2026-03-13,France,SKU-NIK-8253,Nike,Air Force 1,Chaussures,14,2058,297.72
+2026-03-14,Espagne,SKU-PUM-5335,Puma,Clyde,Chaussures,20,1240,231.06
+2026-01-23,Allemagne,SKU-NIK-8699,Nike,Air Force 1,Chaussures,18,1422,280.41
+2026-02-06,Allemagne,SKU-PUM-4241,Puma,Suede Classic,Chaussures,10,590,139.87
+2026-01-29,Belgique,SKU-SAM-5728,Samsung,Galaxy S25,Électronique,5,1555,333.93
+2026-03-30,Italie,SKU-SAM-2317,Samsung,Galaxy S25,Électronique,10,7620,1249.26
+2026-02-11,Italie,SKU-APP-5415,Apple,iPhone 16,Électronique,20,4440,1109.68
+2026-03-02,Allemagne,SKU-APP-9056,Apple,iPhone 16,Électronique,17,18224,3424.53
+2026-02-22,Espagne,SKU-NIK-9117,Nike,Pegasus 41,Chaussures,11,1221,166.14
+2026-01-05,Belgique,SKU-PUM-7622,Puma,Clyde,Chaussures,15,1230,301.27
+2026-03-01,Belgique,SKU-APP-1845,Apple,iPhone 16,Électronique,14,16800,3130.17
+2026-01-17,Belgique,SKU-ADI-4920,Adidas,Gazelle,Chaussures,10,1490,365.7
+2026-01-02,Belgique,SKU-ADI-2924,Adidas,Gazelle,Chaussures,18,1278,202.49
+2026-03-07,Espagne,SKU-ADI-7284,Adidas,Samba,Chaussures,9,1089,189.18
+2026-02-05,France,SKU-ADI-5891,Adidas,Superstar,Chaussures,14,1736,222.35
+2026-02-27,Allemagne,SKU-APP-6272,Apple,iPad Air,Électronique,18,23256,3351.79
+2026-02-19,Belgique,SKU-ADI-7246,Adidas,Superstar,Chaussures,8,520,103.94
+2026-01-05,Italie,SKU-SAM-8213,Samsung,Galaxy S25 Ultra,Électronique,5,5700,1303.09
+2026-01-19,France,SKU-NIK-7512,Nike,Pegasus 41,Chaussures,14,2142,294.64
+2026-02-18,Belgique,SKU-NIK-5708,Nike,Dunk Low,Chaussures,11,1650,197.85
+2026-01-13,Italie,SKU-ADI-1919,Adidas,Ultraboost,Chaussures,4,324,28.45
+2026-02-25,Espagne,SKU-PUM-2293,Puma,Future Rider,Chaussures,5,510,55.54
+2026-03-29,Belgique,SKU-APP-8529,Apple,iPad Air,Électronique,8,8992,1694.49
+2026-02-06,Italie,SKU-PUM-7951,Puma,Suede Classic,Chaussures,18,1908,359.89
+2026-01-26,Espagne,SKU-PUM-5837,Puma,Clyde,Chaussures,13,1040,184.83
+2026-01-02,Espagne,SKU-NIK-5689,Nike,Pegasus 41,Chaussures,19,2983,660.98
+2026-03-23,Allemagne,SKU-ADI-1645,Adidas,Gazelle,Chaussures,7,644,150.42
+2026-03-16,France,SKU-PUM-3165,Puma,Clyde,Chaussures,12,1044,114.69
+2026-03-06,Belgique,SKU-APP-6549,Apple,AirPods Pro,Électronique,9,7056,1459.99
+2026-01-19,France,SKU-NIK-7464,Nike,Pegasus 41,Chaussures,8,1248,119.0
+2026-01-16,Belgique,SKU-NIK-7086,Nike,Dunk Low,Chaussures,15,1755,385.77
+2026-01-04,Italie,SKU-NIK-8606,Nike,Air Force 1,Chaussures,20,2820,530.21
+2026-02-17,Allemagne,SKU-PUM-2832,Puma,RS-X,Chaussures,6,300,48.92
+2026-03-23,Allemagne,SKU-SAM-5681,Samsung,Galaxy A56,Électronique,9,4446,688.14
